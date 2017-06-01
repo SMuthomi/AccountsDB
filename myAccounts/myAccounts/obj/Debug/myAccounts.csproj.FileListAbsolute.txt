@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\bin\Debug\myAccounts.exe.config
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\bin\Debug\myAccounts.exe
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\bin\Debug\myAccounts.pdb
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.Login.resources
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.Properties.Resources.resources
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.csproj.GenerateResource.Cache
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.exe
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.pdb
+C:\Users\steve\Desktop\Githhub\myAccounts\myAccounts\obj\Debug\myAccounts.Main.resources
